@@ -3,7 +3,6 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on Artificial Intelligence and Expert Systems
-- 📫 How to reach me ...
 
 <!---
 josiahchiseko/josiahchiseko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
